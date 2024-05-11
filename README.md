@@ -19,11 +19,7 @@ WiseVault is a full-stack MERN application that provides small-business owners w
 
 ## Inspiration for the Project:
 
-Building a tool to address challenges such as managing finances, tracking expenses, or setting and achieving savings goals can be both practical and personally rewarding.
-
-There's a growing demand for digital tools that help individuals manage their finances more effectively. With the increasing adoption of online banking and digital transactions, there's a need for comprehensive solutions that offer budgeting, expense tracking, and goal setting functionalities. 
-
-Many people lack basic financial literacy skills, such as budgeting and saving. Building an application that simplifies these concepts and helps users develop better financial habits can contribute to financial empowerment and education.
+Automated financial planning tools utilize AI to assist users in efficientlymanaging their finances. By analyzing spending habits, offering budgetingadvice, and giving personalized tips, these tools help optimize financial well-being. Financial planning plays a vital role in helping individuals achieve their financial goals, manage risks, build wealth, and secure a stable financial future.  Recognizing that many individuals struggle to manage their finances due to time constraints, our app provides users with accessibility, personalized services, risk management, and educational resources to support them in reaching these objectives. WiseVault provides a comprehensive approach to money management through its user-friendly features such as portfolio management, expense tracking, and future planning. The app includes an AI-driven chatbot, detailed analytics, payment reminders, money-saving suggestions, and personalized recommendations, making financial management simple and fulfilling.
 
 ## Get Started
 
