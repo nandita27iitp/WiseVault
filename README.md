@@ -1,11 +1,11 @@
-<h1 align="center">FinWise</h1>
+<h1 align="center">WiseVault</h1>
 <h3 align="center">"Spend Wisely, Manage Wisely"</h3>
 
 <p align="center">About the project</p>
 <p align="center">
-    <img src="https://img.shields.io/github/forks/nandita27iitp/finWise">
-    <img src="https://img.shields.io/github/stars/nandita27iitp/finWise"><br><br>
-FinWise is a full-stack MERN application that provides small-business owners with a comprehensive solution to manage their incomes and expenses. Handle tax season like a boss with FinWise.
+    <img src="https://img.shields.io/github/forks/nandita27iitp/WiseVault">
+    <img src="https://img.shields.io/github/stars/nandita27iitp/WiseVault"><br><br>
+WiseVault is a full-stack MERN application that provides small-business owners with a comprehensive solution to manage their incomes and expenses. Handle tax season like a boss with FinWise.
 </p>
 
 <p align="center">Tech Stack</p>
@@ -25,19 +25,6 @@ There's a growing demand for digital tools that help individuals manage their fi
 
 Many people lack basic financial literacy skills, such as budgeting and saving. Building an application that simplifies these concepts and helps users develop better financial habits can contribute to financial empowerment and education.
 
-## Features of FinWise at a Glance:
-
-| Function | Feature | Image |
-| --- | ----------- | -------|
-| Registration and Login | Allow user to login or create a new account | # |
-| Home Page | Listing all posted entry and exit transactions | # |
-| Current balance display | Provide contact details to get emergency medical services | # |
-| Searched period filtering | "All" / "7 days" / "15 days" / "30 days" | # |
-| Category management for inputs or outputs | # | # |
-| Category filtering | # | # |
-
-----
-
 ## Get Started
 
 1. Log in as an existing user, or sign up as a new user.
@@ -56,7 +43,7 @@ Many people lack basic financial literacy skills, such as budgeting and saving. 
 2. Clone Your Forked Repository:
 
 ```sh
-git clone https://github.com/<your_username>/finWise.git
+git clone https://github.com/<your_username>/WiseVault.git
 ```
 
 3. Install Dependencies:
